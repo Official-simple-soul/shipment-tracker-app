@@ -8,18 +8,17 @@ This project is designed to deliver a robust platform for online learning, with 
 
 ## Table of Contents
 
-- [KodeCamp LMS Frontend](#kodecamp-lms-frontend)
-  - [Overview](#overview)
-  - [Table of Contents](#table-of-contents)
-  - [Technologies](#technologies)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-      - [1. Clone the Repository](#1-clone-the-repository)
-      - [2. Navigate to the project directory](#2-navigate-to-the-project-directory)
-      - [3. Checkout to the working branch](#3-checkout-to-the-working-branch)
-      - [6. Install the dependencies using pnpm](#6-install-the-dependencies-using-pnpm)
-      - [7. Running the Application](#7-running-the-application)
+- [Overview](#overview)
+- [Table of Contents](#table-of-contents)
+- [Technologies](#technologies)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+    - [1. Clone the Repository](#1-clone-the-repository)
+    - [2. Navigate to the project directory](#2-navigate-to-the-project-directory)
+    - [3. Checkout to the working branch](#3-checkout-to-the-working-branch)
+    - [6. Install the dependencies using pnpm](#6-install-the-dependencies-using-pnpm)
+    - [7. Running the Application](#7-running-the-application)
 
 ## Technologies
 
